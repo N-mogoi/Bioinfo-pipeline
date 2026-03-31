@@ -1,0 +1,12 @@
+# Python/R cache
+*.pyc
+*.pyo
+__pycache__/
+
+# Bioinformatics-related data files
+data/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
